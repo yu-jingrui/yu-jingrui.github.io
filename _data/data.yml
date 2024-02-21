@@ -8,7 +8,7 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Jingrui Yu 于景瑞
+    name: "Jingrui Yu\n于景瑞"
     tagline: "CV/ML Scientist"
     avatar: yjins.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -16,10 +16,10 @@ sidebar:
     email: jingrui@yu-j.de
     #phone: 012 345 6789
     timezone: Europe/Berlin
-    # citizenship:
+    citizenship: Chinese
     # website: blog.webjeda.com #do not add http://
-    # linkedin: alandoe
-    # xing: alandoe
+    linkedin: jingrui-yu-332bba19
+    xing: "Jingrui_Yu"
     # github: sharu725
     # telegram: # add your nickname without '@' sign
     # gitlab:
@@ -45,13 +45,13 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Photography
           link:
 
-        - item: Snowboarding
+        - item: Homelab
           link:
 
-        - item: Cooking
+        - item: Travel
           link:
 
 career-profile:
