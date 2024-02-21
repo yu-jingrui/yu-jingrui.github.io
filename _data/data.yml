@@ -3,52 +3,55 @@
 #
 
 sidebar:
-    position: left # position of the sidebar : left or right
+    position: right # position of the sidebar : left or right
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Jingrui Yu // 于景瑞
-    tagline: CV/ML Scientist
-    avatar: yjins.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Alan Doe
+    tagline: Full Stack Developer
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: jingrui@yu-j.de
-    #phone: 012 345 6789
-    timezone: Europe/Berlin
-    #citizenship:
-    #website: blog.webjeda.com #do not add http://
-    linkedin: jingrui-yu-332bba19
-    xing: Jingrui_Yu
-    #github: sharu725
-    #telegram: # add your nickname without '@' sign
-    #gitlab:
-    #bitbucket:
-    #twitter: '@webjeda'
-    #stack-overflow: # Number/Username, e.g. 123456/alandoe
-    #codewars:
-    #goodreads: # Number-Username, e.g. 123456-alandoe
-    #pdf: http://www.africau.edu/images/default/sample.pdf
+    email: hello@webjeda.com
+    phone: 012 345 6789
+    timezone: America/Cancun Timezone
+    citizenship:
+    website: blog.webjeda.com #do not add http://
+    linkedin: alandoe
+    xing: alandoe
+    github: sharu725
+    telegram: # add your nickname without '@' sign
+    gitlab:
+    bitbucket:
+    twitter: '@webjeda'
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+    pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
       title: Languages
       info:
-        - idiom: Chinese
+        - idiom: English
           level: Native
 
-        - idiom: Germen
+        - idiom: French
           level: Professional
 
-        - idiom: English
+        - idiom: Spanish
           level: Professional
 
     interests:
       title: Interests
       info:
-        - item: Photography
+        - item: Climbing
           link:
 
-        - item: Homelab
+        - item: Snowboarding
+          link:
+
+        - item: Cooking
           link:
 
 career-profile:
@@ -63,35 +66,117 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: Ph.D (Dr.-Ing.)
-        university: Technische Universität Chemnitz
-        time: 2017 - Present
+      - degree: MSc in Computer Science
+        university: University of London
+        time: 2011 - 2012
         details: |
-          to be done
-      - degree: Dipl.-Ing. (equiv. M.Sc.) in Electrical Engineering
-        university: Technische Universität Dresden
-        time: 2010 - 2016
+          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          sociis natoque penatibus et magnis dis parturient montes, nascetur
+          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          pretium quis, sem.
+            - Bullet point
+            - Bullet point
+      - degree: BSc in Applied Mathematics
+        university: Bristol University
+        time: 2007 - 2011
         details: |
-          to be done
+          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          sociis natoque penatibus et magnis dis parturient montes, nascetur
+          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          pretium quis, sem.
+            - Bullet point
+            - Bullet point
 
 experiences:
     title: Experiences
     info:
-      - role: Research Fellow
-        time: 2017 - Present
-        company: Technische Universität Chemnitz, Germany
+      - role: Lead Developer
+        time: 2015 - Present
+        company: Startup Hubs, San Francisco
         details: |
-          to be done
-      - role: Research Assistant
-        time: 2017 - 2017
-        company: Technische Universität Chemnitz, Germany
+          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          Cum sociis natoque penatibus et magnis dis parturient montes,
+          nascetur ridiculus mus. Donec quam felis, ultricies nec,
+          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+          error sit voluptatem accusantium doloremque laudantium, totam rem
+          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+          architecto beatae vitae dicta sunt explicabo.
+            - Bullet point
+            - Bullet point
+      - role: Senior Software Engineer
+        time: 2014 - 2015
+        company: Google, London
         details: |
-          to be done
-      
+          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          Cum sociis natoque penatibus et magnis dis parturient montes,
+          nascetur ridiculus mus. Donec quam felis, ultricies nec,
+          pellentesque eu, pretium quis, sem.
+            - Bullet point
+            - Bullet point
+      - role: UI Developer
+        time: 2012 - 2014
+        company: Amazon, London
+        details: |
+          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          Cum sociis natoque penatibus et magnis dis parturient montes,
+          nascetur ridiculus mus. Donec quam felis, ultricies nec,
+          pellentesque eu, pretium quis, sem.
+            - Bullet point
+            - Bullet point
+
+certifications:
+      title: Certifications
+      list:
+        - name: CV Builder
+          start: 2020
+          end: 2021
+          organization: Microsoft
+          credentialid: 111-222
+          credentialurl: www.google.com
+          credentialname: Google
+          details: |
+            Details about cert. Lorem ipsum dolor sit amet, consectetur
+            adipiscing elit.
+            Nullam eget orci purus. Nullam ultrices neque nibh.
+            Aenean fermentum, felis vulputate suscipit accumsan,
+            sem enim bibendum augue, sed convallis arcu lacus at dui.
+            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+            Praesent venenatis erat non augue suscipit consectetur.
+
+            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
+            fringilla vel. Ut euismod, sem sed vulputate venenatis,
+            justo diam viverra velit, sed rhoncus leo leo eu justo.
+            Suspendisse placerat risus ante, sed porta nisi blandit at.
+        - name: Git learning
+          start: 2019
+          end:
+          organization: Microsoft
+          credentialid: 111-222
+          credentialurl: www.github.com
+          credentialname: Github
+          details: |
+            Older certification. Lorem ipsum dolor sit amet, consectetur
+            adipiscing elit.
+            Nullam eget orci purus. Nullam ultrices neque nibh.
+            Aenean fermentum, felis vulputate suscipit accumsan,
+            sem enim bibendum augue, sed convallis arcu lacus at dui.
+            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+            Praesent venenatis erat non augue suscipit consectetur.
+
 projects:
     title: Projects
     intro: >
-      Research projects at TU Chemnitz
+      You can list your side projects in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: Velocity
         link: "#hook"
@@ -113,54 +198,68 @@ projects:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
+oss:
+    title: OSS Contributions
+    intro: >
+      You can list your open source software contributions in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    contributions:
+      - title: Tempo
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+      - title: Atom
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
 publications:
     title: Publications
     intro: |
-      My publications
+      You can list your publications in this section. Lorem ipsum dolor sit
+      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      bibendum fringilla a eu lectus.
     papers:
-      - title: Human Pose Estimation in Monocular Omnidirectional Top-View Images
-        link: "https://openaccess.thecvf.com/content/CVPR2023W/OmniCV/html/Yu_Human_Pose_Estimation_in_Monocular_Omnidirectional_Top-View_Images_CVPRW_2023_paper.html"
-        authors: Jingrui Yu, Tobias Scheck, Roman Seidel, Yukti Adya, Dipankar Nandi, Gangolf Hirtz
-        conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 2023
+      - title: The Art of Computer Programming
+        link: "#"
+        authors: Donald E. Knuth
+        conference: Addison-Wesley, 1968
 
-      - title: "Applications of Deep Learning for Top-View Omnidirectional Imaging: A Survey"
-        link: "https://openaccess.thecvf.com/content/CVPR2023W/OmniCV/html/Yu_Applications_of_Deep_Learning_for_Top-View_Omnidirectional_Imaging_A_Survey_CVPRW_2023_paper.html"
-        authors: Jingrui Yu, Ana Cecilia Perez Grassi, Gangolf Hirtz
-        conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 2023
+      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        link: "#"
+        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: Omnipd: One-step person detection in top-view omnidirectional indoor scenes
-        link: "https://www.degruyter.com/document/doi/10.1515/cdbme-2019-0061/html"
-        authors: Jingrui Yu, Roman Seidel, Gangolf Hirtz
-        conference: Current Directions in Biomedical Engineering 5.1 (2019): 239-244
-
-      - title: Contactless Interactive Fall Detection and Sleep Quality Estimation for Supporting Elderly with Incipient Dementia
-        link: "https://www.degruyter.com/document/doi/10.1515/cdbme-2020-3100/html"
-        authors: Roman Siedel, Tobias Scheck, Ana C Perez Grassi, Julian B Seuffert, André Apitzsch, Jingrui Yu, Norbert Nestler, Danny Heinz, Lars Lehmann, Anne Goy, Gangolf Hirtz
-        conference: "Current Directions in Biomedical Engineering, 6(3), pp.388-391"
-
-      - title: "Auxilia: Nutzerzentriertes assistenz-und sicherheitssystem zur unterstützung von menschen mit demenz auf basis intelligenter verhaltensanalyse"
-        link: "https://www.bibliothek.tu-chemnitz.de/ojs/index.php/awlC/article/view/236"
-        authors: Roman Seidel, André Apitzsch, Jingrui Yu, Julian Seuffert, Norbert Nestler, Danny Heinz, Anne Goy, Gangolf Hirtz
-        conference: aw&I Conference, 2018
+      - title: A syntax directed compiler for Algol 60
+        link: "#"
+        authors: Edgar T. Irons
+        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python 
+      - name: Python & Django
         level: 98%
 
-      - name: Pytorch
+      - name: Javascript & jQuery
         level: 98%
 
-      - name: Computer Vision
+      - name: Angular
         level: 98%
 
-      - name: Deep Learning
-        level: 98%
+      - name: HTML5 & CSS
+        level: 95%
 
-      - name: Unity 3D
-        level: 80%
+      - name: Ruby on Rails
+        level: 85%
+
+      - name: Sketch & Photoshop
+        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
