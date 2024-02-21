@@ -8,7 +8,7 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: "Jingrui Yu\n于景瑞"
+    name: "Jingrui Yu 于景瑞"
     tagline: "CV/ML Scientist"
     avatar: yjins.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -66,26 +66,16 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: Ph.D. (Dr.-Ing.)
+        university: Technische Universität Chemnitz
+        time: 2018 - Present
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+          TODO
+      - degree: Dipl.-Ing. (equiv. M.Sc.) in Electrical Engineering
+        university: Technische Universität Dresden
+        time: 2010 - 2016
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
+          TODO
             - Bullet point
             - Bullet point
 
