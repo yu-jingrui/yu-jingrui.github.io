@@ -157,37 +157,41 @@ publications:
         authors: Jingrui Yu, Tobias Scheck, Roman Seidel, Yukti Adya, Dipankar Nandi, Gangolf Hirtz
         conference: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2023
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "Applications of Deep Learning for Top-View Omnidirectional Imaging: A Survey"
+        link: "https://openaccess.thecvf.com/content/CVPR2023W/OmniCV/html/Yu_Applications_of_Deep_Learning_for_Top-View_Omnidirectional_Imaging_A_Survey_CVPRW_2023_paper.html"
+        authors: Jingrui Yu, Ana Cecilia Perez Grassi, Gangolf Hirtz
+        conference: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2023
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: "Omnipd: One-step person detection in top-view omnidirectional indoor scenes"
+        link: "https://www.degruyter.com/document/doi/10.1515/cdbme-2019-0061/html"
+        authors: Jingrui Yu, Roman Seidel, Gangolf Hirtz
+        conference: "Current Directions in Biomedical Engineering 5.1 (2019): 239-244"
+
+      - title: Contactless Interactive Fall Detection and Sleep Quality Estimation for Supporting Elderly with Incipient Dementia
+        link: "https://www.degruyter.com/document/doi/10.1515/cdbme-2020-3100/html"
+        authors: Roman Siedel, Tobias Scheck, Ana C Perez Grassi, Julian B Seuffert, André Apitzsch, Jingrui Yu, Norbert Nestler, Danny Heinz, Lars Lehmann, Anne Goy, Gangolf Hirtz
+        conference: "Current Directions in Biomedical Engineering 6.3 (2020): 388-391"
+
+      - title: "Auxilia: Nutzerzentriertes assistenz-und sicherheitssystem zur unterstützung von menschen mit demenz auf basis intelligenter verhaltensanalyse"
+        link: "https://www.bibliothek.tu-chemnitz.de/ojs/index.php/awlC/article/view/236"
+        authors: Roman Seidel, André Apitzsch, Jingrui Yu, Julian Seuffert, Norbert Nestler, Danny Heinz, Anne Goy, Gangolf Hirtz
+        conference: aw&I Conference, 2018
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: Python
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: PyTorch
+        level: 95%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Unity
+        level: 80%
+
+      - name: Linux
+        level: 90%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
