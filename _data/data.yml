@@ -1,0 +1,166 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    position: left # position of the sidebar : left or right
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Jingrui Yu // 于景瑞
+    tagline: CV/ML Scientist
+    avatar: yjins.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: jingrui@yu-j.de
+    #phone: 012 345 6789
+    timezone: Europe/Berlin
+    #citizenship:
+    #website: blog.webjeda.com #do not add http://
+    linkedin: jingrui-yu-332bba19
+    xing: Jingrui_Yu
+    #github: sharu725
+    #telegram: # add your nickname without '@' sign
+    #gitlab:
+    #bitbucket:
+    #twitter: '@webjeda'
+    #stack-overflow: # Number/Username, e.g. 123456/alandoe
+    #codewars:
+    #goodreads: # Number-Username, e.g. 123456-alandoe
+    #pdf: http://www.africau.edu/images/default/sample.pdf
+
+    languages:
+      title: Languages
+      info:
+        - idiom: Chinese
+          level: Native
+
+        - idiom: Germen
+          level: Professional
+
+        - idiom: English
+          level: Professional
+
+    interests:
+      title: Interests
+      info:
+        - item: Photography
+          link:
+
+        - item: Homelab
+          link:
+
+career-profile:
+    title: Career Profile
+    summary: |
+      Summarise your career here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. You can [download this free resume/CV template here]().
+      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+      Donec quam felis, ultricies nec, pellentesque eu.
+      Second paragraph if required.
+education:
+    title: Education
+    info:
+      - degree: Ph.D (Dr.-Ing.)
+        university: Technische Universität Chemnitz
+        time: 2017 - Present
+        details: |
+          to be done
+      - degree: Dipl.-Ing. (equiv. M.Sc.) in Electrical Engineering
+        university: Technische Universität Dresden
+        time: 2010 - 2016
+        details: |
+          to be done
+
+experiences:
+    title: Experiences
+    info:
+      - role: Research Fellow
+        time: 2017 - Present
+        company: Technische Universität Chemnitz, Germany
+        details: |
+          to be done
+      - role: Research Assistant
+        time: 2017 - 2017
+        company: Technische Universität Chemnitz, Germany
+        details: |
+          to be done
+      
+projects:
+    title: Projects
+    intro: >
+      Research projects at TU Chemnitz
+    assignments:
+      - title: Velocity
+        link: "#hook"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
+      - title: DevStudio
+        link: "#"
+        tagline: "A responsive website template designed to help web developers/designers market their services."
+
+      - title: Tempo
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+      - title: Atom
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+publications:
+    title: Publications
+    intro: |
+      My publications
+    papers:
+      - title: Human Pose Estimation in Monocular Omnidirectional Top-View Images
+        link: "https://openaccess.thecvf.com/content/CVPR2023W/OmniCV/html/Yu_Human_Pose_Estimation_in_Monocular_Omnidirectional_Top-View_Images_CVPRW_2023_paper.html"
+        authors: Jingrui Yu, Tobias Scheck, Roman Seidel, Yukti Adya, Dipankar Nandi, Gangolf Hirtz
+        conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 2023
+
+      - title: "Applications of Deep Learning for Top-View Omnidirectional Imaging: A Survey"
+        link: "https://openaccess.thecvf.com/content/CVPR2023W/OmniCV/html/Yu_Applications_of_Deep_Learning_for_Top-View_Omnidirectional_Imaging_A_Survey_CVPRW_2023_paper.html"
+        authors: Jingrui Yu, Ana Cecilia Perez Grassi, Gangolf Hirtz
+        conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 2023
+
+      - title: Omnipd: One-step person detection in top-view omnidirectional indoor scenes
+        link: "https://www.degruyter.com/document/doi/10.1515/cdbme-2019-0061/html"
+        authors: Jingrui Yu, Roman Seidel, Gangolf Hirtz
+        conference: Current Directions in Biomedical Engineering 5.1 (2019): 239-244
+
+      - title: Contactless Interactive Fall Detection and Sleep Quality Estimation for Supporting Elderly with Incipient Dementia
+        link: "https://www.degruyter.com/document/doi/10.1515/cdbme-2020-3100/html"
+        authors: Roman Siedel, Tobias Scheck, Ana C Perez Grassi, Julian B Seuffert, André Apitzsch, Jingrui Yu, Norbert Nestler, Danny Heinz, Lars Lehmann, Anne Goy, Gangolf Hirtz
+        conference: "Current Directions in Biomedical Engineering, 6(3), pp.388-391"
+
+      - title: "Auxilia: Nutzerzentriertes assistenz-und sicherheitssystem zur unterstützung von menschen mit demenz auf basis intelligenter verhaltensanalyse"
+        link: "https://www.bibliothek.tu-chemnitz.de/ojs/index.php/awlC/article/view/236"
+        authors: Roman Seidel, André Apitzsch, Jingrui Yu, Julian Seuffert, Norbert Nestler, Danny Heinz, Anne Goy, Gangolf Hirtz
+        conference: aw&I Conference, 2018
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Python 
+        level: 98%
+
+      - name: Pytorch
+        level: 98%
+
+      - name: Computer Vision
+        level: 98%
+
+      - name: Deep Learning
+        level: 98%
+
+      - name: Unity 3D
+        level: 80%
+
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
